@@ -1,0 +1,14 @@
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\bin\Debug\net6.0\Book Model.exe
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\bin\Debug\net6.0\Book Model.deps.json
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\bin\Debug\net6.0\Book Model.runtimeconfig.json
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\bin\Debug\net6.0\Book Model.dll
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\bin\Debug\net6.0\Book Model.pdb
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\obj\Debug\net6.0\Book Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\obj\Debug\net6.0\Book Model.AssemblyInfoInputs.cache
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\obj\Debug\net6.0\Book Model.AssemblyInfo.cs
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\obj\Debug\net6.0\Book Model.csproj.CoreCompileInputs.cache
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\obj\Debug\net6.0\Book Model.dll
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\obj\Debug\net6.0\refint\Book Model.dll
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\obj\Debug\net6.0\Book Model.pdb
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\obj\Debug\net6.0\Book Model.genruntimeconfig.cache
+C:\Users\sananahu\Desktop\My Codes\Book Model\Book Model\obj\Debug\net6.0\ref\Book Model.dll
